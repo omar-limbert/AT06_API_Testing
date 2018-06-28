@@ -4,7 +4,7 @@ import math
 class Circle:
 
     @classmethod
-    def circle_area(cls,radius):
+    def circle_area(cls, radius):
         if radius > 10:
             result = math.pi * (radius ** 2)
         else:
