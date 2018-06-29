@@ -77,7 +77,7 @@ class UserManager:
 
     @classmethod
     def is_valid_name(cls, user_name):
-        return re.fullmatch("[a-z-0-9]{1,8}", user_name)
+        return re.fullmatch("[a-z0-9]{1,8}", user_name)
 
     @classmethod
     def is_valid_one_digit_id(cls, id_to_verify):
