@@ -34,15 +34,15 @@ class UserForm:
 
     @classmethod
     def is_valid_username(cls, username):
-        return re.fullmatch("[a-z0-9_]+", username)
+        return re.fullmatch("[a-z0-9_]+", str(username))
 
     @classmethod
     def is_valid_password(cls, password):
-        return re.fullmatch("[a-zA-Z0-9]{8,16}", password)
+        return re.fullmatch("[a-zA-Z0-9]{8,16}", str(password))
 
     @classmethod
     def is_valid_email(cls, email):
-        return re.fullmatch("([\w.]+)@([\w.]+)", email)
+        return re.fullmatch("([\w.]+)@([\w.]+)", str(email))
 
     @classmethod
     def show_user_information(cls):
