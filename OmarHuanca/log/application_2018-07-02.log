@@ -1,0 +1,66 @@
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:18] > Get Commercial Net Salary
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:32:33,090 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:34:42,694 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: Commercial Employee
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:18] > Get Commercial Net Salary
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:34:42,694 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:36:29,401 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:37:12,360 	 [INFO | MainMenu.py:15] > Fill Employee List
+2018-07-02 19:37:28,006 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:37:44,893 	 [INFO | ProductionEmployee.py:12] > Production Employee Created: omarr
+2018-07-02 19:37:54,703 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar2
+2018-07-02 19:43:34,055 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:43:39,990 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: asdf
+2018-07-02 19:43:45,120 	 [INFO | ProductionEmployee.py:12] > Production Employee Created: dfdf
+2018-07-02 19:43:48,495 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: asdf
+2018-07-02 19:44:02,419 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:44:55,308 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:45:08,813 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:45:17,813 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omaromar
+2018-07-02 19:45:28,760 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: pa,r,r
+2018-07-02 19:51:53,623 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:51:58,588 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: oamr
+2018-07-02 19:52:02,458 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:52:07,734 	 [INFO | ProductionEmployee.py:12] > Production Employee Created: omfd
+2018-07-02 19:52:18,400 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:52:22,753 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: asdf
+2018-07-02 19:52:26,331 	 [INFO | ProductionEmployee.py:12] > Production Employee Created: omdf
+2018-07-02 19:52:28,378 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: osdfsd
+2018-07-02 19:57:57,172 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:58:04,046 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:58:06,938 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:58:09,245 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:58:19,407 	 [INFO | MainMenu.py:23] > Fill Employee List
+2018-07-02 19:58:24,105 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:58:25,749 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:58:27,279 	 [INFO | CommercialEmployee.py:12] > Commercial Employee Created: omar
+2018-07-02 19:58:27,279 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,279 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:58:27,279 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,279 	 [INFO | CommercialSalary.py:18] > Get Commercial Net Salary
+2018-07-02 19:58:27,279 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,279 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:18] > Get Commercial Net Salary
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:58:27,280 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:18] > Get Commercial Net Salary
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:14] > Get Commercial Discount
+2018-07-02 19:58:27,281 	 [INFO | CommercialSalary.py:10] > Get Commercial Salary
