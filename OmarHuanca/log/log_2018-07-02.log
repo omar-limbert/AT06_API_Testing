@@ -1,0 +1,108 @@
+2018-07-02 12:20:31,397 	 [INFO | ShopPage.py:12] > Loading Products from DataBase
+2018-07-02 12:20:31,397 	 [INFO | ShopPage.py:30] > [Sold] Product: Item 3 Qty: 100 After: 0
+2018-07-02 12:20:31,397 	 [INFO | ShopPage.py:17] > Show currently Products
+2018-07-02 12:25:21,993 	 [INFO | ShopPage.py:12] > Loading Products from DataBase
+2018-07-02 12:25:21,993 	 [INFO | ShopPage.py:30] > [Sold] Product: Item 3 Qty: 100 After: 0
+2018-07-02 12:25:21,993 	 [INFO | ShopPage.py:17] > Show currently Products
+2018-07-02 12:46:19,308 	 [INFO | Shop.py:21] > Show currently Products
+2018-07-02 12:47:10,418 	 [INFO | Shop.py:21] > Show currently Products
+2018-07-02 12:47:24,020 	 [INFO | Shop.py:16] > Loading Products from DataBase
+2018-07-02 12:47:24,020 	 [INFO | Shop.py:37] > [Sold] Product: Item 3 Qty: 100 After: 0
+2018-07-02 12:47:24,020 	 [INFO | Shop.py:21] > Show currently Products
+2018-07-02 12:48:04,970 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 12:48:04,970 	 [INFO | Shop.py:38] > [Sold] Product: Item 3 Qty: 100 After: 0
+2018-07-02 12:48:04,971 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 12:48:08,057 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 12:48:09,809 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 12:53:01,423 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:01:42,781 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:02:03,415 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:02:33,496 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:02:54,773 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:06:07,660 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:14:16,791 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:14:16,792 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:14:33,092 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:14:33,093 	 [INFO | Shop.py:39] > [Sold] Product: 1 Qty: 100 After: 0
+2018-07-02 13:14:33,093 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:19:13,742 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:19:39,596 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:21:32,890 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:23:30,441 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:24:42,978 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:25:37,234 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:26:42,656 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:26:42,656 	 [INFO | Shop.py:39] > [Sold] Product: 1 Qty: 100 After: 0
+2018-07-02 13:26:42,656 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:26:59,297 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:28:12,489 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:28:21,215 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:29:29,295 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:29:29,296 	 [INFO | Shop.py:39] > [Sold] Product: 1 Qty: 100 After: 0
+2018-07-02 13:29:29,296 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:29:38,579 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:29:38,580 	 [INFO | Shop.py:39] > [Sold] Product: 9 Qty: 100 After: 0
+2018-07-02 13:29:38,580 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:30:56,568 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:30:56,569 	 [INFO | Shop.py:39] > [Sold] Product: 9 Qty: 100 After: 0
+2018-07-02 13:30:56,569 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:31:02,228 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:31:09,263 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:32:19,544 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:32:24,719 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:33:41,099 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:33:46,241 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:34:35,581 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:34:59,656 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:34:59,657 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:35:11,232 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:35:30,885 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:35:30,886 	 [INFO | Shop.py:40] > [Sold] Product: 10 Qty: 100 After: 0
+2018-07-02 13:35:30,886 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:35:40,348 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:35:40,349 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:36:04,636 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:36:12,687 	 [INFO | Shop.py:40] > [Sold] Product: 10 Qty: 100 After: 0
+2018-07-02 13:36:12,688 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:36:16,804 	 [INFO | Shop.py:40] > [Sold] Product: 9 Qty: 100 After: 0
+2018-07-02 13:36:16,804 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:36:21,024 	 [INFO | Shop.py:40] > [Sold] Product: 8 Qty: 100 After: 0
+2018-07-02 13:36:21,024 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:53:49,901 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:53:52,703 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:53:52,794 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:53:54,965 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:54:02,874 	 [INFO | Shop.py:40] > [Sold] Product: 10 Qty: 100 After: 0
+2018-07-02 13:54:21,212 	 [INFO | Shop.py:40] > [Sold] Product: 9 Qty: 50 After: 50
+2018-07-02 13:57:12,998 	 [INFO | Shop.py:17] > Loading Products from DataBase
+2018-07-02 13:57:15,380 	 [INFO | Shop.py:22] > Show currently Products
+2018-07-02 13:57:43,900 	 [INFO | Shop.py:40] > [Sold] Product: 10 Qty: 10 After: 90
+2018-07-02 13:57:48,107 	 [INFO | Shop.py:40] > [Sold] Product: 9 Qty: 10 After: 90
+2018-07-02 13:57:50,763 	 [INFO | Shop.py:40] > [Sold] Product: 8 Qty: 10 After: 90
+2018-07-02 14:00:56,991 	 [INFO | Purchase.py:12] > Selling Product: 1, Item 3, 1, 100
+2018-07-02 14:00:56,991 	 [INFO | Purchase.py:12] > Selling Product: 2, Item 3, 2, 50
+2018-07-02 14:00:56,991 	 [INFO | Purchase.py:12] > Selling Product: 3, Item 3, 3, 30
+2018-07-02 14:00:56,991 	 [INFO | Purchase.py:12] > Selling Product: 4, Item 3, 4, 10
+2018-07-02 14:00:56,991 	 [INFO | Purchase.py:17] > Show current balance
+2018-07-02 14:02:19,562 	 [INFO | Shop.py:18] > Loading Products from DataBase
+2018-07-02 14:02:19,562 	 [INFO | Shop.py:14] > Return shop name: Ebay.com
+2018-07-02 14:02:25,161 	 [INFO | Shop.py:23] > Show currently Products
+2018-07-02 14:02:27,456 	 [INFO | Shop.py:31] > Return Product Data
+2018-07-02 14:02:27,457 	 [INFO | Shop.py:31] > Return Product Data
+2018-07-02 14:02:30,437 	 [INFO | Shop.py:35] > Selling Product and update stock 8, 8
+2018-07-02 14:02:30,438 	 [INFO | Shop.py:42] > [Sold] Product: 8 Qty: 10 After: 90
+2018-07-02 14:02:30,438 	 [INFO | Purchase.py:12] > Selling Product: 8, Item 8, 8.5, 10
+2018-07-02 14:02:30,438 	 [INFO | Purchase.py:17] > Show current balance
+2018-07-02 14:02:30,438 	 [INFO | Shop.py:31] > Return Product Data
+2018-07-02 14:02:32,867 	 [INFO | Shop.py:35] > Selling Product and update stock 9, 9
+2018-07-02 14:02:32,868 	 [INFO | Shop.py:42] > [Sold] Product: 9 Qty: 10 After: 90
+2018-07-02 14:02:32,868 	 [INFO | Purchase.py:12] > Selling Product: 9, Item 9, 9.5, 10
+2018-07-02 14:02:32,868 	 [INFO | Purchase.py:17] > Show current balance
+2018-07-02 14:02:32,868 	 [INFO | Shop.py:31] > Return Product Data
+2018-07-02 14:02:34,398 	 [INFO | Shop.py:35] > Selling Product and update stock 1, 1
+2018-07-02 14:02:34,398 	 [INFO | Shop.py:42] > [Sold] Product: 1 Qty: 10 After: 90
+2018-07-02 14:02:34,398 	 [INFO | Purchase.py:12] > Selling Product: 1, Item 1, 1.5, 10
+2018-07-02 14:02:34,398 	 [INFO | Purchase.py:17] > Show current balance
+2018-07-02 14:02:34,398 	 [INFO | Shop.py:31] > Return Product Data
+2018-07-02 14:02:43,464 	 [INFO | Shop.py:23] > Show currently Products
+2018-07-02 14:02:49,754 	 [INFO | Purchase.py:17] > Show current balance
